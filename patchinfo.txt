@@ -4,4 +4,4 @@ NewLaunch=1.0.0
 [Patch_0]
 VersionFrom=1.00.0000
 VersionTo=1.00.0001
-URL_1=https://github.com/thienlonganhhung/update/raw/main/1.zip
+URL_1=http://pa.thienlonganhhung.com/1.zip
