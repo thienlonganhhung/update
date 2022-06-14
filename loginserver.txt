@@ -1,5 +1,5 @@
 VERSION 1  
  
 SERVER_BEGIN  
-Thiên Long Anh Hùng,Anh Hùng Hµi,1,149,3,0,0,Cøm máy chü M¾i,103.166.183.19:7384,,,
+ThiÃªn Long Anh HÃ¹ng,Anh HÃ¹ng HÂµi,1,149,3,0,0,CÃ¸m mÃ¡y chÃ¼ MÂ¾i,103.179.189.221:7384,,,
 SERVER_END
