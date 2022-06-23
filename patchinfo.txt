@@ -1,5 +1,5 @@
 [Version]
-Latest=1.00.0002
+Latest=1.00.0003
 NewLaunch=1.0.0
 [Patch_0]
 VersionFrom=1.00.0000
@@ -9,3 +9,7 @@ URL_1=http://pa.thienlonganhhung.com/1.zip
 VersionFrom=1.00.0001
 VersionTo=1.00.0002
 URL_1=http://pa.thienlonganhhung.com/2.zip
+[Patch_2]
+VersionFrom=1.00.0002
+VersionTo=1.00.0003
+URL_1=http://pa.thienlonganhhung.com/3.zip
